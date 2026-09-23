@@ -3,10 +3,10 @@
 # sha256 实证来源：v0.5.0 Release 实际 dmg 资产经 GitHub API 下载后计算
 #（下载大小 121457854 字节与 Release 元数据一致）。
 cask "devwit" do
-  version "0.5.0"
-  sha256 "5d97c6a0bd22516b780596e7a8f4c070f96316358f0617baf998cc21826c1fa4"
+  version "0.7.30"
+  sha256 "fc901e0be421386c8a52215806e6cbf57c35357609bfe68060f79b855c47c0a4"
 
-  url "https://github.com/eeyzs1/DevWit/releases/download/v#{version}/DevWit-#{version}-arm64.dmg"
+  url "https://github.com/eeyzs1/DevWit/releases/download/v0.7.30/DevWit-0.7.30-arm64.dmg"
   name "DevWit"
   desc "Lean-context AI-native desktop IDE (简洁上下文 AI 原生桌面 IDE)"
   homepage "https://github.com/eeyzs1/DevWit"
